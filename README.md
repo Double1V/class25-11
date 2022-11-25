@@ -11,7 +11,7 @@ public class Square {
                 return true;
             }
         }
-        return false; // fix me!
+        return false;
     }
 }
 ```
